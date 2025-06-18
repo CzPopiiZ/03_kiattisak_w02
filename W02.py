@@ -1,5 +1,5 @@
-name = "Nitipoom" 
-Iname = "Phantong"
+name = "Kiattisak" 
+Iname = "Intarayota"
 
 print("ชื่อ",name)
 print("นามสกุล",Iname)
